@@ -64,4 +64,4 @@ gem 'nokogiri'
 gem 'utf8_utils'
 
 #posgresqul
-gem ='pg'
+gem 'pg'
