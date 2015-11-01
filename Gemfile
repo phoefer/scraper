@@ -60,3 +60,6 @@ gem 'nokogiri'
 
 #utf-8 utilities
 gem 'utf8_utils'
+
+#posgresqul
+gem ='pg'
